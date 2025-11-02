@@ -1,0 +1,5 @@
+[DEFAULT]
+sound = beep.wav
+delay = 7
+volume = 20
+

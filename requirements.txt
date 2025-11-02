@@ -1,0 +1,4 @@
+configparser
+pygame
+termcolor
+colorama
